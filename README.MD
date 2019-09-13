@@ -1,5 +1,18 @@
 ### L Brands - Programming interview 
 
+## Overall feedback
+
+Interviewed with: Nick & Rajeesh. 
+
+The interview was more about your ability to memorize computer science theory rather than application development. It was an hour long and consisted of shoot and fire questions rather than investigating your ability to use Golang in production. 
+
+The bulk of the code challenge is made more difficult due to needing to implement a bubble sort from scratch, instead of using the standard library's sort interface. 
+
+This task alone is not difficult, but most programmers have desk references for sorting algorithms, secondly it defeats the purpose of Go's amazing standard library. Which does an amazing job of abstracting away concepts,constants and CS theory so you can focus on developer velocity.
+
+
+**Programming isn't about your ability to memorize** memory is reconstructive, programming is the ability to translate business logic into programming instructions effectively. If you're going to assign shoot from the hip interview,then it's probably best to give interviewee context before interview happens. 
+
 ## Concurrency 
 
 Write a buffered channel then, send and receive from channel. 
