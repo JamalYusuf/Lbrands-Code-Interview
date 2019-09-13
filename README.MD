@@ -20,7 +20,7 @@ Write a buffered channel then, send and receive from channel.
 
 ## Find Priority String within source string
 
-Given a priority string, find it within the source string. Basically, determine if two strings have the same characters but in different lengths.  
+Given a priority string, find it within the source string. Basically, determine if two strings have the same characters but are in different order of each other.  
 
 ## Find Priority String Within source String, Without Sort
 
